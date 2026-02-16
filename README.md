@@ -1,92 +1,85 @@
-<!-- ================== ELITE GLOBAL DEV PROFILE ================== -->
+<!-- ===================== PRO ELITE GITHUB PROFILE ===================== -->
 
-<h1 align="center">👑 Simon Pierre TURAMYUMUKIZA</h1>
-<h3 align="center">🚀 Fullstack & Laravel Engineer | Tech Founder | Building Scalable Digital Systems</h3>
+<!-- 🔥 Animated Gradient Header -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Future+Global+Tech+CEO+👑;Elite+Laravel+Engineer+🚀;Fullstack+System+Architect+💻;Building+ThinkIQ+%26+Powerful+Platforms+🌍;From+Rwanda+to+Global+Tech+Stage+🔥" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:92FE9D&height=230&section=header&text=SIMON%20PIERRE%20TURAMYUMUKIZA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">👑 Fullstack & Laravel Engineer | Tech Founder | Future Global CEO</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&color=00E0FF&center=true&vCenter=true&width=700&lines=Elite+Laravel+Developer+🚀;Fullstack+System+Architect+💻;Building+ThinkIQ+%26+Powerful+Platforms+🌍;Future+Tech+CEO+👑;From+Rwanda+to+Global+Stage+🔥" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=simon1pierre&label=VISITORS&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/simon1pierre?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/simon1pierre?style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/github/followers/simon1pierre?style=for-the-badge&color=00c2ff&label=Followers"/>
+<img src="https://img.shields.io/github/stars/simon1pierre?style=for-the-badge&color=yellow&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=simon1pierre&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I am a **founder-minded Fullstack & Laravel developer** building real-world systems that solve problems and scale.
-I specialize in **E-commerce, SaaS platforms, dashboards, and modern web architecture**.
-My mission is to become a **global tech entrepreneur and elite software engineer**, creating powerful digital solutions across Africa and beyond.
+💡 Founder-minded **Laravel & Fullstack developer** building scalable real-world systems.
+🚀 Specialized in **E-commerce platforms, SaaS systems, dashboards & modern web apps**.
+🌍 Mission: Become a **global tech entrepreneur & elite software engineer** building powerful African tech solutions.
 
 ---
 
-# 👑 Founder & CEO Vision
+# 👑 Founder Mindset
 
 * 🚀 Future global tech CEO
-* 💡 Building scalable SaaS & startup systems
-* 🌍 Mission: Create impactful technology from Africa
-* 🧠 Continuous learning & execution
-* 💰 Wealth creation through tech innovation
+* 💰 Building profitable SaaS products
+* 🌍 Creating impactful digital platforms
+* 🧠 Obsessed with growth & mastery
+* 🔥 Turning ideas into real systems
 
 ---
 
-# 🛠️ Tech Empire (Stack)
-
-## ⚡ Core Technologies
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Fullstack-Developer-blueviolet?style=for-the-badge"/>
-</p>
 
-## 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,mysql,postgres,mongodb,sqlite,git,github,vscode&theme=dark" />
 
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite"/>
 </p>
 
 ---
 
-# 🚀 Elite Projects
+# 🏆 Elite Projects
 
-## 🛒 ThinkIQ E-learning Platform
+## 🛒 ThinkIQ E-Learning Platform
 
 * Full SaaS learning system
-* Courses, students & dashboards
-* Production-level Laravel architecture
-* Scalable system design
+* Student & course management
+* Dashboard + authentication
+* Built with Laravel fullstack architecture
 
 ## 🌐 Beacon Of God Ministries System
 
-* Full dynamic ministry website
-* Admin dashboard & management
-* Secure authentication system
-* Laravel + modern UI
+* Modern ministry platform
+* Dynamic content management
+* Admin dashboard
+* Production-ready Laravel system
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics (Live)
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simon1pierre&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon1pierre&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=simon1pierre&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon1pierre&layout=compact&theme=tokyonight&border_radius=10"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=simon1pierre&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=simon1pierre&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=simon1pierre&theme=tokyo-night"/>
@@ -94,61 +87,55 @@ My mission is to become a **global tech entrepreneur and elite software engineer
 
 ---
 
-# 🐍 Snake Eating My Commits (Elite Dev Animation)
+# 🏆 Achievements
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/simon1pierre/simon1pierre/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🏆 Achievements & Developer Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=simon1pierre&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=simon1pierre&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 # 🧠 Currently Mastering
 
-* Advanced Laravel & system architecture
-* SaaS engineering
+* Advanced Laravel architecture
+* SaaS system design
 * Modern JavaScript frameworks
-* AI-powered applications
-* Tech startup growth
+* AI-powered apps
+* Tech entrepreneurship
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Twitter-Tech%20Updates-1DA1F2?style=for-the-badge&logo=twitter"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=google-chrome"/>
 </a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-# 💰 2026 — Developer Domination Goals
+# 💎 2026 Domination Goals
 
 * 🚀 Launch ThinkIQ globally
-* 💻 Build profitable SaaS products
+* 💰 Build profitable SaaS
 * 🌍 Work with international companies
 * 👑 Become top African tech founder
-* 🧠 Master AI + advanced backend systems
+* 🤖 Build AI-powered systems
 
 ---
 
-<h2 align="center">⚡ I don't wait for opportunities. I build them.</h2>
-<h3 align="center">— Simon Pierre TURAMYUMUKIZA</h3>
+<h2 align="center">⚡ “I build systems. I build vision. I build the future.”</h2>
+<h3 align="center">— Simon Pierre</h3>
 
-<!-- ================== END ================== -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:92FE9D&height=120&section=footer"/>
+</p>
